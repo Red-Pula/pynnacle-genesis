@@ -93,7 +93,7 @@ class _Style:
             f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}"
             + "*" * (_Style._BANNER_WIDTH + 2) + "\n"
             + f"*{'PYNNACLE-GENESIS'.center(_Style._BANNER_WIDTH)}*\n"
-            + f"*{'Version: 1.1.0'.center(_Style._BANNER_WIDTH)}*\n"
+            + f"*{'Version: 1.1.1'.center(_Style._BANNER_WIDTH)}*\n"
             + f"*{' '.center(_Style._BANNER_WIDTH)}*\n"  # blank line
             + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'Copyright (C) 2025'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
             + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'Rafael Red Angelo M. Hizon, Jenel M. Justo, and Serena Mae C.S. Lee'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
