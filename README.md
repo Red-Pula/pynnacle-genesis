@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Pinnacle Robotics Logo" width="1920"/>
+<img src="https://raw.githubusercontent.com/Red-Pula/pynnacle-genesis/main/assets/banner.png" alt="Pinnacle Robotics Logo" width="1920"/>
 
 # pynnacle-genesis
 
@@ -15,7 +15,7 @@ It provides an abstraction layer, allowing newcomers to write Python code for va
 
 **See what learners have achieved with pynnacle-genesis**: [Pinnacle Robotics on Facebook](https://www.facebook.com/pinnaclerobotics).
 
-<img src="./assets/qr-code.png" alt="Pinnacle Robotics Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/Red-Pula/pynnacle-genesis/main/assets/qr-code.png" alt="Pinnacle Robotics QR Code" width="150"/>
 
 ## Compatibility
 
@@ -37,7 +37,7 @@ The **pynnacle-genesis** project is brought to you by **Team Pinnacle:**
 
 Our mission is to make robotics and programming education accessible, intuitive, and empowering for beginners everywhere. We deeply value the contributions of the open-source community, and to create high-level abstractions that bridge hardware and software, this project utilizes and hides the complexities of libraries such as pyserial by Chris Liechti and pymata4 by Alan Yorinks. We hope that everyone using this library will be inspired to contribute back and help grow the body of knowledge.
 
-### 📢 Attribution Notice
+### Attribution Notice
 
 If you use **pynnacle-genesis** in teaching, research, or projects, please acknowledge **Team Pinnacle** and reference this repository. It helps share knowledge widely and inspires others to explore, learn, and create in the field of robotics and programming.
 
