@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The **pynnacle-genesis** module was originally created as a learning companion for readers of **_Python Odyssey: Into the World of Robotics_** by Pinnacle Robotics, alongside the **Pinnacle Genesis** board featured in the book.
+The **pynnacle-genesis** package was originally created as a learning companion for readers of **_Python Odyssey: Into the World of Robotics_** by Pinnacle Robotics, alongside the **Pinnacle Genesis** board featured in the book.
 
 It provides an abstraction layer, allowing newcomers to write Python code for various projects in a way that feels both intuitive and approachable. At the same time, it builds familiarity that helps ease the transition to advanced and popular platforms in the future. Our goal is simple but ambitious: **make robotics programming less intimidating and more inspiring**. By lowering the learning curve, we help students and hobbyists quickly connect software with hardware, turning curiosity into creation.
 
@@ -19,7 +19,7 @@ It provides an abstraction layer, allowing newcomers to write Python code for va
 
 ## Compatibility
 
-The **pynnacle-genesis** module is **specifically designed and tested exclusively with the Pinnacle Genesis board**, ensuring reliable compatibility and full functionality. While it may appear to work with other development boards, these have not been tested. Using it outside the intended board may result in **limited features, reduced stability, or unexpected behavior**.
+The **pynnacle-genesis** package is **specifically designed and tested exclusively with the Pinnacle Genesis board**, ensuring reliable compatibility and full functionality. While it may appear to work with other development boards, these have not been tested. Using it outside the intended board may result in **limited features, reduced stability, or unexpected behavior**.
 
 For the best experience, use this package with the **Pinnacle Genesis** board.
 
