@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name='pynnacle_genesis',
-    version='1.1.1', 
+    version='1.1.2', 
     packages=find_packages(),
     description='A Python module for the Pinnacle Genesis board, offering hands-on robotics coding with a familiar structure inspired by popular development board environments.',
     url='https://github.com/Red-Pula/pynnacle-genesis',
