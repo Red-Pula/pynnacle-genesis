@@ -19,7 +19,9 @@ It provides an abstraction layer, allowing newcomers to write Python code for va
 
 ## Compatibility
 
-The **pynnacle-genesis** package is **specifically designed and tested exclusively with the Pinnacle Genesis board**, ensuring reliable compatibility and full functionality. While it may appear to work with other development boards, these have not been tested. Using it outside the intended board may result in **limited features, reduced stability, or unexpected behavior**.
+The **pynnacle-genesis** package was designed and thoroughly tested with the **Pinnacle Genesis board** to ensure reliable compatibility and full functionality.
+
+While the package **may** work with other development boards, these configurations have not been tested and are **not** officially supported. Users may experience **limited features**, **reduced stability**, or **unexpected behavior** when using unsupported hardware.
 
 For the best experience, use this package with the **Pinnacle Genesis** board.
 
