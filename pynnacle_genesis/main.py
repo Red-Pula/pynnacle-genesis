@@ -1,7 +1,7 @@
 '''
 pynnacle-genesis
 
-Copyright (C) 2025 Rafael Red Angelo M. Hizon, Jenel M. Justo, and Serena Mae C.S. Lee
+Copyright (C) 2025-2026 Rafael Red Angelo M. Hizon, Jenel M. Justo, and Serena Mae C.S. Lee
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
@@ -16,25 +16,12 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 '''
+
 '''
-The pynnacle-genesis module was designed as a practical companion to 
-Python Odyssey: Into the World of Robotics by Team Pinnacle. 
-It pairs directly with the Pinnacle Genesis board that readers
-explore throughout the book.
-
-This module creates an abstraction layer that allows learners to write
-Python code for robotics projects in a way that feels intuitive and approachable.
-At the same time, it nurtures familiarity with coding practices that make it easier
-to transition into advanced and widely used robotics platforms later on.
-Our purpose is ambitious yet simple: to make robotics programming less intimidating
-and far more inspiring. By reducing the learning curve, we help students and hobbyists
-connect software with hardware quickly, transforming curiosity into creation.
-
-The pynnacle-genesis project aims to make robotics and programming education more 
-accessible, encouraging, and enjoyable for beginners everywhere. It builds on the work
-of the open-source community, relying on pyserial by Chris Liechti and pymata4 by Alan Yorinks.
-By hiding much of the underlying complexity with simple, higher-level abstractions, 
-pynnacle-genesis hopes to make the learning process smoother and help learners focus on exploring and creating.
+pynnacle-genesis: Beginner-friendly Python abstraction for robotics projects.
+Designed for use with the Pinnacle Genesis board (recommended for full support).
+Simplifies hardware interaction to help users focus on building and learning.
+Developed by Team Pinnacle.
 
 See what learners have achieved with pynnacle-genesis: https://www.facebook.com/pinnaclerobotics
 '''
@@ -93,9 +80,9 @@ class _Style:
             f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}"
             + "*" * (_Style._BANNER_WIDTH + 2) + "\n"
             + f"*{'PYNNACLE-GENESIS'.center(_Style._BANNER_WIDTH)}*\n"
-            + f"*{'Version: 1.1.2'.center(_Style._BANNER_WIDTH)}*\n"
+            + f"*{'Version: 1.1.3'.center(_Style._BANNER_WIDTH)}*\n"
             + f"*{' '.center(_Style._BANNER_WIDTH)}*\n"  # blank line
-            + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'Copyright (C) 2025'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
+            + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'Copyright (C) 2025-2026'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
             + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'Rafael Red Angelo M. Hizon, Jenel M. Justo, and Serena Mae C.S. Lee'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
             + f"{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*{_Style._RESET}{'All Rights Reserved.'.center(_Style._BANNER_WIDTH)}{_Style._COLOR_LIGHT_MAGENTA}{_Style._BOLD}*\n"
             + "*" * (_Style._BANNER_WIDTH + 2)
